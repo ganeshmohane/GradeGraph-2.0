@@ -1,0 +1,545 @@
+
+
+
+
+2022
+
+
+University of Mumbai, Mumbai
+OFFICE REGISTER OF THE B.E.(with credits) - Regular - CBCS(Computer Science and Engineering (Data Science))- F.E. C-Scheme - Sem I [1T01831] HELD IN Winter Session 2021	Result Decleration Date:11 May
+
+
+
+58651-Engineering Mathematics-I: ThUA 80/32 ThCA 20/8 100/0 | FEC101-Engineering Mathematics-I Term Work: TwCA 25/10 25/0 | 58652-Engineering Physics-I: ThUA 60/24 ThCA 15/6 75/0 | FEL101-Engineering Physics-I (TW): TwCA 25/10 25/0 | 58655-Engineering Chemistry-I: ThUA 60/24 ThCA 15/6 75/0 | FEL102-Engineering Chemistry-I (TW): TwCA 25/10 25/0 |
+58653-Engineering Mechanics: ThUA 80/32 ThCA 20/8 100/0 | FEL103-Engineering Mechanics (TW/OR/PR): ORCA 25/10 TwCA 25/10 50/0 | 58654-Basic Electrical Engineering: ThUA 80/32 ThCA 20/8 100/0 | FEL104-Basic Electrical Engineering (TW/OR/PR): ORCA 25/10 TwCA 25/10 50/0 | FEL105-Basic Workshop Practice-I: TwCA 50/20 50/0 |
+
+SEAT
+NAME OF THE CANDIDATE
+| PAPER
+1	| PAPER 2	| PAPER 3	| PAPER 4	| PAPER 5	| PAPER 6	| RESULT
+NO.
+Mother Name
+|
+Total|	Total|	Total|	Total|	Total|	Total| CR C*G
+PRN.
+|CR
+GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	| SGPI GRADE
+CENTRE-COLLEGE	| PAPER 7	| PAPER 8	| PAPER 9	| PAPER 10	| PAPER 11	|
+|	Total|	Total|	Total|	Total|	Total|
+|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|
+
+9058590
+ARJUN JAYESH ANIL
+|58651
+
+
+|FEC101
+
+
+|58652
+
+
+|FEL101
+
+
+|58655
+
+
+|FEL102
+
+
+|
+Successful
+
+MANISHA
+|73
+15
+88
+|--
+21
+21
+|43
+12
+55
+|--
+20
+20
+|46
+9
+55
+|--
+16
+16
+|
+18.00 167.50
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+B 8.00 16.00 |0.50 O 10.00 5.00 |2.00 B 8.00 16.00 |0.50 C 7.00 3.50 | 9.31 --
+
+4	|FEL104	|FEL105	|
+|64	16	80	|--	20	39	|68	15	83	|--	20	35	|--	41	41	|
+|	|--	19	|	|--	15	|	|
+|3.00 O 10.00 30.00|1.00 A 9.00 9.00 |3.00 O 10.00 30.00|1.00 B 8.00 8.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 9.31	FINAL GRADE --
+
+9058591 HARSHAL SHIRISH BHAMARE	|58651			|FEC101			|58652			|FEL101			|58655			 |FEL102			| Successful RANJANA	 |53	15	68	 |--	22	22	 |38	12	50	 |--	18	18	 |34	11	45	|--	18	18	| 18.00 143.00
+                                   |	|	|	|	|	|	| 2021016402172072	|3.00 C 7.00 21.00 |1.00 O 10.00 10.00|2.00 C 7.00 14.00 |0.50 B 8.00 4.00 |2.00 C 7.00 14.00 |0.50 B 8.00 4.00 | 7.94 --
+
+(22)Vasai-(466)	|58653	|FEL103	|58654	|FEL104	|FEL105	|
+|65	12	77	|--	21	33	|56	16	72	|--	20	36	|--	43	43	|
+|	|--	12	|	|--	16	|	|
+|3.00 A 9.00 27.00 |1.00 C 7.00 7.00 |3.00 B 8.00 24.00 |1.00 B 8.00 8.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 7.94	FINAL GRADE --
+9058592 / BHOIR BHAVISHA RAVINDRA	|58651 SARALA	|73	16
+|
+2021016402189774	|3.00 O 10.00 30.00|1.00 O 10.00 10.00|2.00 A 9.00 18.00 |0.50 B 8.00 4.00 |2.00 B 8.00 16.00 |0.50 C 7.00 3.50 | 9.42 --
+
+(22)Vasai-(466)	|58653	|FEL103	|58654
+|65	15	80	|--	20	39	|67
+|	|--	19	|
+|3.00 O 10.00 30.00|1.00 A 9.00 9.00 |3.00 O 10.00 30.00|1.00 A 9.00 9.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 9.42	FINAL GRADE --
+
+
+
+
+
+
+/ - FEMALE, # - 0.229A ,@ - O.5042A/O.5043A/O.5044A, * - 5045A, RR-RESERVED, --:Fails in Theory or Practical, RPV - PROVISIONAL Eligible, RCC - O.5050, AB - ABSENT, F - UNSUCCESSFUL,P - SUCCESSFUL;
+NULL-NULL & VOID, G:Grade C*G:Gradepoints C:credits CP:credit points	 CG:sum of product of credits & grades, Internal Marks are Provisional as per R.8668  C:sum of credit points	GPA:  CG / C
+MARKS	: 0 to 39.99	40 to 44.99	45 to 49.99	50 to 59.99	60 to 69.99	70 to 74.99	75 to 79.99	80 to 100
+
+
+GRADE	: F	P
+E
+D
+C
+B
+A
+O
+
+GRADE POINT : 0.00	4.00
+5.00
+6.00
+7.00
+8.00
+9.00
+10.00
+
+10/5/2022
+
+
+
+
+
+
+Page No.1
+
+
+
+
+
+
+2022
+
+University of Mumbai, Mumbai
+OFFICE REGISTER OF THE B.E.(with credits) - Regular - CBCS(Computer Science and Engineering (Data Science))- F.E. C-Scheme - Sem I [1T01831] HELD IN Winter Session 2021	Result Decleration Date:11 May
+
+
+
+58651-Engineering Mathematics-I: ThUA 80/32 ThCA 20/8 100/0 | FEC101-Engineering Mathematics-I Term Work: TwCA 25/10 25/0 | 58652-Engineering Physics-I: ThUA 60/24 ThCA 15/6 75/0 | FEL101-Engineering Physics-I (TW): TwCA 25/10 25/0 | 58655-Engineering Chemistry-I: ThUA 60/24 ThCA 15/6 75/0 | FEL102-Engineering Chemistry-I (TW): TwCA 25/10 25/0 |
+58653-Engineering Mechanics: ThUA 80/32 ThCA 20/8 100/0 | FEL103-Engineering Mechanics (TW/OR/PR): ORCA 25/10 TwCA 25/10 50/0 | 58654-Basic Electrical Engineering: ThUA 80/32 ThCA 20/8 100/0 | FEL104-Basic Electrical Engineering (TW/OR/PR): ORCA 25/10 TwCA 25/10 50/0 | FEL105-Basic Workshop Practice-I: TwCA 50/20 50/0 |
+
+SEAT
+NAME OF THE CANDIDATE
+| PAPER
+1	| PAPER 2	| PAPER 3	| PAPER 4	| PAPER 5	| PAPER 6	| RESULT
+NO.
+Mother Name
+|
+Total|	Total|	Total|	Total|	Total|	Total| CR C*G
+PRN.
+|CR
+GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	| SGPI GRADE
+CENTRE-COLLEGE	| PAPER 7	| PAPER 8	| PAPER 9	| PAPER 10	| PAPER 11	|
+|	Total|	Total|	Total|	Total|	Total|
+|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|
+
+9058593
+BILLA MUKESH MANOHAR KAVITHA
+|58651
+|77
+15
+92
+|FEC101
+|--
+21
+21
+|58652
+|49
+13
+62
+|FEL101
+|--
+23
+23
+|58655
+|48
+11
+59
+|FEL102
+|--
+20
+20
+|
+|
+Successful
+18.00 171.00
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+2021016402192061	|3.00 O 10.00 30.00|1.00 O 10.00 10.00|2.00 O 10.00 20.00|0.50 O 10.00 5.00 |2.00 A 9.00 18.00 |0.50 O 10.00 5.00 | 9.50 --
+(22)Vasai-(466)	|58653	|FEL103	|58654
+|62	13	75	|--	20	36	|69	18
+87
+|FEL104
+|--
+20	36
+|FEL105
+|--
+41
+41
+|
+|
+
+|	|--	16	|
+
+|--
+16
+|
+
+
+|
+
+|3.00 A 9.00 27.00 |1.00 B 8.00 8.00 |3.00 O 10.00 30.00|1.00 B 8.00 8.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 9.50	FINAL GRADE --
+
+9058594 / CHAFEKAR PUJA RAJESH MANISHA
+
+2021016402181724
+
+40	|67	18
+85	|--
+21	38
+|--
+43
+43
+|
+|
+|--
+17
+|
+
+
+|
+|3.00 O 10.00 30.00|1.00 O 10.00 10.00|3.00 O 10.00 30.00|1.00 A 9.00 9.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 9.72	FINAL GRADE --
+9058595 CHAUBAL MANAS MAHENDRA	|58651	|FEC101
+
+|58652
+
+|FEL101
+
+
+|58655
+
+|FEL102
+
+
+|
+Successful
+NANDITA	|58	14	72	|--	22
+|	|
+22
+|42
+|
+11	53
+|--
+|
+20
+20
+|35
+|
+10	45
+|--
+|
+22
+22
+|
+|
+18.00 150.00
+2021016402193547
+
+(22)Vasai-(466)
+|53	11	64	|--	22	41	|61
+|	|--	19	|
+|3.00 C 7.00 21.00 |1.00 O 10.00 10.00|3.00 A 9.00 27.00 |1.00 B 8.00 8.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 8.33	FINAL GRADE --
+
+
+
+/ - FEMALE, # - 0.229A ,@ - O.5042A/O.5043A/O.5044A, * - 5045A, RR-RESERVED, --:Fails in Theory or Practical, RPV - PROVISIONAL Eligible, RCC - O.5050, AB - ABSENT, F - UNSUCCESSFUL,P - SUCCESSFUL;
+NULL-NULL & VOID, G:Grade C*G:Gradepoints C:credits CP:credit points	 CG:sum of product of credits & grades, Internal Marks are Provisional as per R.8668  C:sum of credit points	GPA:  CG / C
+MARKS	 : 0 to 39.99	 40 to 44.99	 45 to 49.99	50 to 59.99	60 to 69.99	70 to 74.99	75 to 79.99	80 to 100 GRADE	: F	P	E	D	C	B	A	O
+GRADE POINT : 0.00	4.00	5.00	6.00	7.00	8.00	9.00	10.00
+
+
+10/5/2022	Page No.2
+
+
+
+
+
+
+
+2022
+
+University of Mumbai, Mumbai
+OFFICE REGISTER OF THE B.E.(with credits) - Regular - CBCS(Computer Science and Engineering (Data Science))- F.E. C-Scheme - Sem I [1T01831] HELD IN Winter Session 2021	Result Decleration Date:11 May
+
+
+
+58651-Engineering Mathematics-I: ThUA 80/32 ThCA 20/8 100/0 | FEC101-Engineering Mathematics-I Term Work: TwCA 25/10 25/0 | 58652-Engineering Physics-I: ThUA 60/24 ThCA 15/6 75/0 | FEL101-Engineering Physics-I (TW): TwCA 25/10 25/0 | 58655-Engineering Chemistry-I: ThUA 60/24 ThCA 15/6 75/0 | FEL102-Engineering Chemistry-I (TW): TwCA 25/10 25/0 |
+58653-Engineering Mechanics: ThUA 80/32 ThCA 20/8 100/0 | FEL103-Engineering Mechanics (TW/OR/PR): ORCA 25/10 TwCA 25/10 50/0 | 58654-Basic Electrical Engineering: ThUA 80/32 ThCA 20/8 100/0 | FEL104-Basic Electrical Engineering (TW/OR/PR): ORCA 25/10 TwCA 25/10 50/0 | FEL105-Basic Workshop Practice-I: TwCA 50/20 50/0 |
+
+SEAT
+NAME OF THE CANDIDATE
+| PAPER
+1	| PAPER 2	| PAPER 3	| PAPER 4	| PAPER 5	| PAPER 6	| RESULT
+NO.
+Mother Name
+|
+Total|	Total|	Total|	Total|	Total|	Total| CR C*G
+PRN.
+|CR
+GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	| SGPI GRADE
+CENTRE-COLLEGE	| PAPER 7	| PAPER 8	| PAPER 9	| PAPER 10	| PAPER 11	|
+|	Total|	Total|	Total|	Total|	Total|
+|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|CR	GR GP C*G	|
+
+9058596
+CHURI AYUSH PRASHANT
+|58651
+
+
+|FEC101
+
+
+|58652
+
+
+|FEL101
+
+
+|58655
+
+
+|FEL102
+
+
+|
+Successful
+
+VAISHALI
+|72
+13
+85
+|--
+20
+20
+|42
+13
+55
+|--
+20
+20
+|43
+10
+53
+|--
+15
+15
+|
+18.00 160.50
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+
+|
+
+2021016402314825	|3.00 O 10.00 30.00|1.00 O 10.00 10.00|2.00 B 8.00 16.00 |0.50 O 10.00 5.00 |2.00 B 8.00 16.00 |0.50 C 7.00 3.50 | 8.92 -- (22)Vasai-(466)
+
+|3.00 O 10.00 30.00|1.00 B 8.00 8.00 |3.00 A 9.00 27.00 |1.00 C 7.00 7.00 |1.00 B 8.00 8.00 | Total Credit 18.00	FINAL CGPI 8.92	FINAL GRADE --
+
+9058597 / DALVI KASHISH KISHOR	|58651	|FEC101
+
+|58652
+
+|FEL101
+
+
+|58655
+
+|FEL102
+
+
+|
+Successful
+DEEPA	|70	15	85	|--	23
+23
+|46
+12	58
+|--
+23
+23
+|43
+10	53
+|--
+21
+21
+|
+18.00 171.00
+|	|
+
+|
+
+|
+
+
+|
+
+|
+
+
+|
+
+2021016402181964	|3.00 O 10.00 30.00|1.00 O 10.00
+10.00|2.00 A 9.00 18.00 |0.50 O
+10.00 5.00
+|2.00 B 8.00 16.00
+|0.50 O 10.00 5.00
+|
+9.50 --
+(22)Vasai-(466)	|58653	|FEL103	|58654	|FEL104
+|FEL105
+|
+|72	11	83	|--	22	40	|66	18
+84	|--
+19	34
+|--
+45
+45
+|
+|	|--	18	|
+|--
+15
+|
+
+
+|
+|3.00 O 10.00 30.00|1.00 O 10.00 10.00|3.00 O 10.00 30.00|1.00 C 7.00 7.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 9.50	FINAL GRADE --
+9058598 DEORE VINAYAK PRAKASH	|58651	|FEC101
+
+|58652
+
+|FEL101
+
+
+|58655
+
+|FEL102
+
+|
+Successful
+MANISHA	|75	13	88	|--	22
+|	|
+22
+|44
+|
+13	57
+|--
+|
+23
+23
+|46
+|
+10	56
+|--
+|
+17	17
+|
+|
+18.00 170.50
+10.00|2.00 A 9.00 18.00 |0.50 O 10.00 5.00 |2.00 B 8.00 16.00 |0.50 C 7.00 3.50 | 9.47 --
+
+|58654	|FEL104	|FEL105	|
+41	|68	18	86	|--	21	37	|--	45	45	|
+|	|--	16	|	|
+|3.00 O 10.00 30.00|1.00 O 10.00 10.00|3.00 O 10.00 30.00|1.00 B 8.00 8.00 |1.00 O 10.00 10.00| Total Credit 18.00	FINAL CGPI 9.47	FINAL GRADE --
+
+
+
+
+/ - FEMALE, # - 0.229A ,@ - O.5042A/O.5043A/O.5044A, * - 5045A, RR-RESERVED, --:Fails in Theory or Practical, RPV - PROVISIONAL Eligible, RCC - O.5050, AB - ABSENT, F - UNSUCCESSFUL,P - SUCCESSFUL;
+NULL-NULL & VOID, G:Grade C*G:Gradepoints C:credits CP:credit points	 CG:sum of product of credits & grades, Internal Marks are Provisional as per R.8668  C:sum of credit points	GPA:  CG / C
+MARKS	: 0 to 39.99	40 to 44.99	45 to 49.99	50 to 59.99	60 to 69.99	70 to 74.99	75 to 79.99	80 to 100 GRADE	: F	P	E	D	C	 B	 A	 O
+GRADE POINT : 0.00	4.00	5.00	6.00	7.00	8.00	9.00	10.00
