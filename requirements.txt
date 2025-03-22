@@ -1,0 +1,8 @@
+streamlit
+seaborn
+pandas
+matplotlib
+pdfplumber
+openpyxl
+python-dotenv
+google-generativeai
